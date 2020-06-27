@@ -1,0 +1,50 @@
+		Desktop Sharing Application using RFB protocol
+
+Follow the following information for executing program
+
+*************************A] Python 2.7 installation ****************************
+
+1. Open the folder 'Desktop Sharing Application Project Software'.
+
+2. Open the folder 'Tools'.
+
+3. Install python setup 'python-2.7.13_32bit'.
+
+****************************************************************************
+
+**********************B] Enabling Screenshot module ****************************
+
+After successfull python installation, follow following steps to enable
+screenshot module
+
+1. open command prompt.
+
+2. type 'pip install pyscreenshot' to download required module.
+
+****************************************************************************
+ 
+***********************C] Install Pillow ***************************************
+
+1. pip install pillow
+
+****************************************************************************
+ 
+***********************D] pyQT4 *********************************************
+
+1. It is used for GUI.
+
+2. Install 'PyQt4-4.10-gpl-Py2.6-Qt4.8.4-x32'
+
+3. Use this command to convert .ui file into .py file.
+   'pyuic4 -x login.ui -o login.py'
+
+****************************************************************************
+
+************************E] py2exe ****************************************
+
+1. Install 'py2exe-0.6.9.win32-py2.7' to convert .py file into .exe file.
+
+****************************************************************************
+
+
+ 
